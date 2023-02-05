@@ -19,7 +19,7 @@ function NavBar() {
         link="https://www.linkedin.com/in/christophergayiuman/"
       />
 
-      <NavBarButton extra={"btn-accent text-lg"} text={"Resume"} />
+      <NavBarButton extra={"btn-accent text-lg"} text={"Resume"} link="./resume.pdf"/>
     </div>
   );
 }
