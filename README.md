@@ -27,7 +27,7 @@ Please feel free to contribute to this project, since this is an open source pro
 
 ## Contact the Contributors
 Christopher:
-- [https://github.com/christophergayiuman](https://github.com/christophergyman)
+- [https://github.com/christophergyman](https://github.com/christophergyman)
 
 
 ## Project Link 
