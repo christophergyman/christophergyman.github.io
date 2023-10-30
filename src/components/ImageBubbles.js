@@ -19,7 +19,7 @@ function ImageBubbles (){
         <div className="drop-shadow-lg flex space-x-11 justify-center h-10">
             <ImageLink src={linkedin} link="https://www.linkedin.com/in/christophergayiuman/"/>
             <ImageLink src={github} link="https://github.com/christophergyman"/>
-            <ImageLink src={resume} link="./resume.pdf"/>
+            <ImageLink src={resume} link="/public/resume.pdf"/>
         </div>
     );
 }
